@@ -39,7 +39,7 @@ module.exports = {
       telegram: "",
       twitter: "jollyshashwat",
       github: "shashwatjolly",
-      rss: "rss.xml",
+      rss: "https://thejollyblog.netlify.app/rss.xml",
       vkontakte: "",
       linkedin: "shashwatjolly",
       instagram: "thejollyguy",
