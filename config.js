@@ -4,8 +4,7 @@ module.exports = {
   url: "https://thejollyblog.netlify.com",
   pathPrefix: "/",
   title: "thejollyblog",
-  subtitle:
-    "Random thoughts and some useful stuff (maybe) by an absolute doofus",
+  subtitle: "Random thoughts and some useful stuff (maybe)",
   copyright: "© All rights reserved.",
   disqusShortname: "thejollyblog",
   postsPerPage: 4,
