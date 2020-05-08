@@ -111,7 +111,7 @@ module.exports = {
                 allMarkdownRemark(
                   limit: 1000,
                   sort: { order: DESC, fields: [frontmatter___date] },
-                  filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true }, fileAbsolutePath: {regex: "/tag/kde/.*\.md$/"} } }
+                  filter: {fileAbsolutePath: {regex: "/tag/kde/.*\\.md$/"}, frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
                 ) {
                   edges {
                     node {
