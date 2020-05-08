@@ -1,41 +1,55 @@
-'use strict';
+"use strict";
 
 module.exports = {
   site: {
     siteMetadata: {
-      url: 'http://localhost',
-      title: 'Test title',
-      subtitle: 'Test subtitle',
-      copyright: 'Test copyright',
-      disqusShortname: '',
+      url: "https://thejollyblog.netlify.app/",
+      title: "thejollyblog",
+      subtitle:
+        "Random thoughts and some useful stuff (maybe) by an absolute doofus",
+      copyright: "© All rights reserved.",
+      disqusShortname: "thejollyblog",
       postsPerPage: 4,
       menu: [
         {
-          label: 'Test label 1',
-          path: '/test/1/'
+          label: "Articles",
+          path: "/",
         },
         {
-          label: 'Test label 2',
-          path: '/test/2/'
+          label: "All tags",
+          path: "/tags",
         },
         {
-          label: 'Test label 3',
-          path: '/test/3/'
-        }
+          label: "About me",
+          path: "/pages/about",
+        },
+        {
+          label: "Contact me",
+          path: "/pages/contacts",
+        },
       ],
       author: {
-        name: 'Test name',
-        photo: '/test.jpg',
-        bio: 'Test bio',
+        name: "Shashwat Jolly",
+        photo: "/photo.jpg",
+        bio: "GSoC 2020 at KDE and EteSync | Upcoming SDE at Microsoft",
         contacts: {
-          email: '#',
-          telegram: '#',
-          twitter: '#',
-          github: '#',
-          rss: '#',
-          vkontakte: '#'
-        }
-      }
-    }
-  }
+          email: "",
+          facebook: "shashwatjolly",
+          telegram: "",
+          twitter: "jollyshashwat",
+          github: "shashwatjolly",
+          rss: "rss.xml",
+          vkontakte: "",
+          linkedin: "shashwatjolly",
+          instagram: "thejollyguy",
+          line: "",
+          gitlab: "",
+          weibo: "",
+          codepen: "",
+          youtube: "",
+          soundcloud: "",
+        },
+      },
+    },
+  },
 };
