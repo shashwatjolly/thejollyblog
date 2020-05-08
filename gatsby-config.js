@@ -87,7 +87,6 @@ module.exports = {
                         template
                         draft
                         description
-                        tags
                       }
                     }
                   }
@@ -97,44 +96,44 @@ module.exports = {
             output: "/rss.xml",
             title: siteConfig.title,
           },
-          // {
-          //   serialize: ({ query: { site, allMarkdownRemark } }) =>
-          //     allMarkdownRemark.edges.map((edge) => ({
-          //       ...edge.node.frontmatter,
-          //       description: edge.node.frontmatter.description,
-          //       date: edge.node.frontmatter.date,
-          //       url: site.siteMetadata.site_url + edge.node.fields.slug,
-          //       guid: site.siteMetadata.site_url + edge.node.fields.slug,
-          //       custom_elements: [{ "content:encoded": edge.node.html }],
-          //     })),
-          //   query: `
-          //     {
-          //       allMarkdownRemark(
-          //         limit: 1000,
-          //         sort: { order: DESC, fields: [frontmatter___date] },
-          //         filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true }, tag } }
-          //       ) {
-          //         edges {
-          //           node {
-          //             html
-          //             fields {
-          //               slug
-          //             }
-          //             frontmatter {
-          //               title
-          //               date
-          //               template
-          //               draft
-          //               description
-          //             }
-          //           }
-          //         }
-          //       }
-          //     }
-          //   `,
-          //   output: "/rss.xml",
-          //   title: siteConfig.title,
-          // },
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) =>
+              allMarkdownRemark.edges.map((edge) => ({
+                ...edge.node.frontmatter,
+                description: edge.node.frontmatter.description,
+                date: edge.node.frontmatter.date,
+                url: site.siteMetadata.site_url + edge.node.fields.slug,
+                guid: site.siteMetadata.site_url + edge.node.fields.slug,
+                custom_elements: [{ "content:encoded": edge.node.html }],
+              })),
+            query: `
+              {
+                allMarkdownRemark(
+                  limit: 1000,
+                  sort: { order: DESC, fields: [frontmatter___date] },
+                  filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true }, fileAbsolutePath: {regex: "/tag/kde/.*\\.md$/"} } } }
+                ) {
+                  edges {
+                    node {
+                      html
+                      fields {
+                        slug
+                      }
+                      frontmatter {
+                        title
+                        date
+                        template
+                        draft
+                        description
+                      }
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/tag/kde/rss.xml",
+            title: siteConfig.title,
+          },
         ],
       },
     },
