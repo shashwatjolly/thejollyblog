@@ -1,6 +1,6 @@
 ---
 title: "Let's get started! - GSoC 2020 with KDE and EteSync [Part 1]"
-date: "2020-05-09"
+date: "2020-05-11"
 template: "post"
 draft: false
 slug: "gsoc-part-1-lets-get-started"
@@ -15,7 +15,7 @@ socialImage: "/media/gsoc-kde-etesync.png"
 
 ![GSoC, KDE, EteSync logos](/media/gsoc-kde-etesync.png)
 
-Getting selected for GSoC! A feather in the graduation cap of every student. Feels like the peak of the mountain. And believe me, I am truly elated. But I think selection doesn't matter as much as what comes after it. I want to instead treat it as the base of the mountain. Getting selected for GSoC has opened up a vista of opportunities for me. Through it, I aim to dive deeper into open-source and utilize the mentorship to become a better contributor and member of the community.
+I am elated to be selected for GSoC with KDE! Through the program, I aim to dive deeper into open-source and utilize the mentorship to become a better contributor and member of the community. I am really excited to work on my project, **EteSync sync backend for Akonadi**.
 
  <!-- It's the work you do, the connections you make, the things you create that really give you satisfaction. Selection by itself is empty. After all, it's the water that gives the jug purpose. This is the thing that got me into GSoC in the first place, and this is the thing that drives me now. -->
 
