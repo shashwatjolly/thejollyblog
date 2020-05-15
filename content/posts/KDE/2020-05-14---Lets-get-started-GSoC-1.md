@@ -1,6 +1,6 @@
 ---
 title: "Let's get started! - GSoC 2020 with KDE and EteSync [Part 1]"
-date: "2020-05-11"
+date: "2020-05-14"
 template: "post"
 draft: false
 slug: "gsoc-part-1-lets-get-started"
