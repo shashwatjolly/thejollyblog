@@ -1,6 +1,6 @@
 ---
 title: "The coding period starts! - GSoC 2020 with KDE and EteSync [Part 2]"
-date: "2020-06-02"
+date: "2020-06-02T18:50:00"
 template: "post"
 draft: false
 slug: "gsoc-part-2-the-coding-period-starts"
