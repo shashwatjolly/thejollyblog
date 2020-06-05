@@ -15,7 +15,7 @@ socialImage: "/media/gsoc-kde-etesync.png"
 
 Hey everyone!
 
-Last week, I wrote a [post](https://thejollyblog.netlify.app/posts/KDE/gsoc-part-2-the-coding-period-starts) about adding EteSync address books to Kontact. I'm happy to report that you can fetch your EteSync address books and contacts in Kontact. If you want to test it out, skip to "[Testing the resource](#testing-the-resource)" section below. You can read on for updates on the project:
+Last week, I wrote a [post](https://thejollyblog.netlify.app/posts/KDE/gsoc-part-2-the-coding-period-starts) about adding EteSync address books to Kontact. I'm happy to report that you can now fetch your EteSync address books and contacts in Kontact. If you want to test it out, skip to "[Testing the resource](#testing-the-resource)" section below. You can read on for updates on the project:
 
 ## Adding a new EteSync account to KAddressBook
 
