@@ -5,7 +5,8 @@ module.exports = {
     siteMetadata: {
       url: "https://thejollyblog.netlify.app/",
       title: "thejollyblog",
-      subtitle: "Random thoughts and some useful stuff (maybe)",
+      subtitle:
+        "Random thoughts and some useful stuff (maybe) - Shashwat Jolly's blog",
       copyright: "© All rights reserved.",
       disqusShortname: "thejollyblog",
       postsPerPage: 4,

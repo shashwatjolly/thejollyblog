@@ -13,9 +13,6 @@ description: "The coding period for GSoC 2020 has officially started!"
 socialImage: "/media/gsoc-kde-etesync.png"
 ---
 
-<!-- ![Akonadi Resources in Action](/media/gsoc-kde-etesync.png)
-_The 42–Line Bible, printed by Gutenberg._ -->
-
 Hey everyone!
 The month-long _Community Bonding_ period of GSoC '20 has ended, and with it begins the exciting phase of beginning work on our projects. My project, [EteSync sync backend for Akonadi](/posts/KDE/gsoc-part-1-lets-get-started), will add support for syncing users' contacts, calendars and tasks to Kontact. Here are the insights I've gained about the project, as well as my plans for the upcoming phase.
 
