@@ -1,6 +1,6 @@
 ---
 title: "Adding EteSync calendars and tasks to Kontact - GSoC 2020 with KDE and EteSync [Part 4]"
-date: "2020-07-08T21:00:00+05:30"
+date: "2020-07-08T23:30:00+05:30"
 template: "post"
 draft: false
 slug: "gsoc-part-4-adding-etesync-calendars-tasks"
