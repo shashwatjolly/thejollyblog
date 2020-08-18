@@ -28,9 +28,8 @@ For the last 3 months, I have been working on native EteSync integration in Kont
 
     - Clone [etesync-rs](https://github.com/etesync/etesync-rs) (`git clone https://github.com/etesync/etesync-rs`)
     - Install [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
-    - cd into the cloned folder and run these commands:
+    - cd into the cloned folder and run:
         ```shell
-        $ cargo build
         $ make && sudo make install
         ```
 
