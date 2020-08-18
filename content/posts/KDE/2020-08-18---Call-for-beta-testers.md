@@ -59,6 +59,8 @@ For the last 3 months, I have been working on native EteSync integration in Kont
 
 **Note**: These are general instructions. If you're facing difficulties in building the project, or in getting the resource working, please head over to the [community chat](https://www.etesync.com/community-chat/).
 
+**For arch linux users**: We already have the EteSync library and the new resource packaged for you, so you can directly install those. Message us on the [community chat](https://www.etesync.com/community-chat/) for more.
+
 ## Known issues
 
 There are currently some known issues, and we're working on fixing them:
@@ -71,7 +73,5 @@ There are currently some known issues, and we're working on fixing them:
 ## Bugs/Feedback?
 
 Do let us know of any issues you face. You can contact us on the [community chat](https://www.etesync.com/community-chat/), or directly email me at [shashwat.jolly@gmail.com](mailto:shashwat.jolly@gmail.com).
-
-**For arch linux users**: We already have the EteSync library and the new resource packaged for you, so you can directly install those. Message us on the [community chat](https://www.etesync.com/community-chat/) for more.
 
 Thanks for the support! :D
