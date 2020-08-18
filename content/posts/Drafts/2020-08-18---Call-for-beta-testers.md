@@ -1,6 +1,6 @@
 ---
 title: "Call for beta testers! | The final lap  - GSoC 2020 with KDE and EteSync [Part 5]"
-date: "2020-08-18T15:00:00+05:30"
+date: "2020-08-18T16:36:00+05:30"
 template: "post"
 draft: false
 slug: "gsoc-part-5-call-for-beta-testers"
@@ -53,10 +53,22 @@ For the last 3 months, I have been working on native EteSync integration in Kont
     - Open the calendar application (KOrganizer) from the left menu (you can also open KOrganizer directly)
     - Right click on the calendar list and choose "Add Calendar"
     - The EteSync option should show up - select it and click "OK"
-    - A configuration dialog should show up - enter your EteSync username and password. If you are hosting your own EteSync server, click on "Advanced Settings" and enter the full server URL (https://...).
+    - A configuration dialog should show up - enter your EteSync username and password.
+      <br>**For self hosters:** Click on "Advanced Settings" and enter the full URL of your hosted server (https://...).
     - Your calendar events, tasks and contacts should now show up!
 
 **Note**: These are general instructions. If you're facing difficulties in building the project, or in getting the resource working, please head over to the [community chat](https://www.etesync.com/community-chat/).
+
+## Known issues
+
+There are currently some known issues, and we're working on fixing them:
+
+-   Creating a new address book from Kontact/KAddressBook is currently not possible. You will probably get an error dialog saying _"Could not create address book folder..."_.
+-   Adding todos to calendars and calendar events to task lists is currently possible in Kontact/KOrganizer. You _will_ see an option for adding todos to calendars and vice versa, which shouldn't be the case.
+    -   If you do go ahead and add a todo to calendar or an even to a task list, nothing should fail, but the created todo/event will remain visible in KOrganizer.
+-   Adding a new EteSync account might take some time for the initial sync. We are looking into optimising it. :)
+
+## Bugs/Feedback?
 
 Do let us know of any issues you face. You can contact us on the [community chat](https://www.etesync.com/community-chat/), or directly email me at [shashwat.jolly@gmail.com](mailto:shashwat.jolly@gmail.com).
 
