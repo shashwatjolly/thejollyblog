@@ -15,7 +15,7 @@ socialImage: "/media/gsoc-kde-etesync.png"
 
 | ![Adding a new EteSync address book](/media/EteSync-resource-visible-logo.png) |
 | :----------------------------------------------------------------------------: |
-|                      _Adding a new EteSync address book_                       |
+|                        _Native EteSync support in KDE_                         |
 
 Hey everyone!
 
@@ -49,17 +49,17 @@ For the last 3 months, I have been working on native EteSync integration in Kont
     $ akonadictl restart
     ```
 
-5. Add your EteSync account to Kontact:
+5. That's mostly it! Now you can add your EteSync account to Kontact:
     - Open Kontact
-    - Open the calendar application from the left menu (you can also open KOrganizaer directly)
-    - Right click on the calendar list and choose `Add Calendar`
+    - Open the calendar application (KOrganizer) from the left menu (you can also open KOrganizer directly)
+    - Right click on the calendar list and choose "Add Calendar"
     - The EteSync option should show up - select it and click "OK"
     - A configuration dialog should show up - enter your EteSync username and password. If you are hosting your own EteSync server, click on "Advanced Settings" and enter the full server URL (https://...).
     - Your calendar events, tasks and contacts should now show up!
 
 **Note**: These are general instructions. If you're facing difficulties in building the project, or in getting the resource working, please head over to the [community chat](https://www.etesync.com/community-chat/).
 
-Do let us know of any issues you face. You can contact us the [community chat](https://www.etesync.com/community-chat/), or email me: [shashwat.jolly@gmail.com](mailto:shashwat.jolly@gmail.com).
+Do let us know of any issues you face. You can contact us on the [community chat](https://www.etesync.com/community-chat/), or directly email me at [shashwat.jolly@gmail.com](mailto:shashwat.jolly@gmail.com).
 
 **For arch linux users**: We already have the EteSync library and the new resource packaged for you, so you can directly install those. Message us on the [community chat](https://www.etesync.com/community-chat/) for more.
 
