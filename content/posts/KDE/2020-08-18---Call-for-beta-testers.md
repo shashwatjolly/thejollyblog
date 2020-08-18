@@ -1,6 +1,6 @@
 ---
 title: "Call for beta testers! | The final lap  - GSoC 2020 with KDE and EteSync [Part 5]"
-date: "2020-08-18T16:36:00+05:30"
+date: "2020-08-18T16:45:00+05:30"
 template: "post"
 draft: false
 slug: "gsoc-part-5-call-for-beta-testers"
