@@ -34,7 +34,7 @@ For the last 3 months, I have been working on native EteSync integration in Kont
         ```
 
 3. Compile and build kdepim-runtime from source:
-    - Clone [the repo](https://invent.kde.org/sjolly/kdepim-runtime/-/tree/etesyncResource) (`git clone https://invent.kde.org/sjolly/kdepim-runtime/-/tree/etesyncResource`)
+    - Clone [the repo](https://invent.kde.org/sjolly/kdepim-runtime.git) (`git clone https://invent.kde.org/sjolly/kdepim-runtime.git`)
     - cd into the cloned folder and checkout the `etesyncResource` branch
         ```shell
         $ git fetch origin
