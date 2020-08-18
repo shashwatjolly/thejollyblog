@@ -21,7 +21,7 @@ Hey everyone!
 
 For the last 3 months, I have been working on native EteSync integration in Kontact. Since my [last status update](https://www.thejollyblog.tech/posts/KDE/gsoc-part-4-adding-etesync-calendars-tasks), I have been working on improving the resource - handling errors, token refreshes, making the configuration dialog better, locally caching journals and a lot more. Now, the resource is finally ready for testing, and we are thankful to everyone who has volunteered to test the resource ([related post](https://blog.etesync.com/gnome-and-kde-integrations-looking-for-beta-testers/))! This post will detail how to test out the new EteSync-KDE integration.
 
-## How to test the new int5.6.egration?
+## How to test the new integration?
 
 1. Install [Kontact](https://kde.org/applications/en/office/org.kde.kontact) (or upgrade it if you have it installed already)
 2. Install the EteSync library
