@@ -9,6 +9,7 @@ tags:
     - "KDE"
     - "GSoC"
     - "Open Source"
+    - "EteSync"
 description: "The new EteSync integration in KDE is now ready for beta testing!"
 socialImage: "/media/gsoc-kde-etesync.png"
 ---

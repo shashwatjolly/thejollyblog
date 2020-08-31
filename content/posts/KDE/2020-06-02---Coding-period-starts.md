@@ -9,6 +9,7 @@ tags:
   - "KDE"
   - "GSoC"
   - "Open Source"
+  - "EteSync"
 description: "The coding period for GSoC 2020 has officially started!"
 socialImage: "/media/gsoc-kde-etesync.png"
 ---

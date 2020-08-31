@@ -9,6 +9,7 @@ tags:
   - "KDE"
   - "GSoC"
   - "Open Source"
+  - "EteSync"
 description: "Adding EteSync contacts to Kontact!"
 socialImage: "/media/gsoc-kde-etesync.png"
 ---

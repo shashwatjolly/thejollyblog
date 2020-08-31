@@ -9,6 +9,7 @@ tags:
     - "KDE"
     - "GSoC"
     - "Open Source"
+    - "EteSync"
 description: "Adding EteSync calendars and tasks to Kontact!"
 socialImage: "/media/gsoc-kde-etesync.png"
 ---

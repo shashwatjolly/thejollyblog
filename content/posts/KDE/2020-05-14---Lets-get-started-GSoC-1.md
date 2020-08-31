@@ -9,6 +9,7 @@ tags:
   - "KDE"
   - "GSoC"
   - "Open Source"
+  - "EteSync"
 description: "What I'm going to do during GSoC and how I'm going to do it."
 socialImage: "/media/gsoc-kde-etesync.png"
 ---
