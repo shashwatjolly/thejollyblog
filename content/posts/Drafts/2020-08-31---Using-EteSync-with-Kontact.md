@@ -20,7 +20,7 @@ Over the past few months, I have been working on enabling EteSync users to sync 
 
 ## Installing the resource
 
-The resource is currently not released with KDE software - we are aiming to have it in the next release. So, it needs to be compiled separately. Follow this guide to install the resource, and head over to the [community chat](https://www.etesync.com/community-chat/) in case of any problems, or even for general help.
+The resource is currently not released with KDE software - we are aiming to have it in the next release. So, it needs to be compiled separately. [Follow this guide](https://www.thejollyblog.tech/posts/KDE/gsoc-part-5-call-for-beta-testers) to install the resource, and head over to the [community chat](https://www.etesync.com/community-chat/) in case of any problems, or even for general help.
 
 ## Adding your EteSync account to Kontact
 
@@ -53,6 +53,8 @@ The resource is currently not released with KDE software - we are aiming to have
 EteSync is completely open-source and so, you can host your own EteSync server if you prefer to do so. Thanks to the way EteSync is designed, there is very little benefit in running your own instance, however, if you still wish to do so, please [follow the instructions](https://github.com/etesync/server).
 
 After you have sucessfully set up your own instance, and verified it works by connecting to it from the browser, click on the "Advanced Settings" checkbox in the configuration dialog while setting up the resource. Enter the server URL of your self-hosted instance in the text-box that appears. Click on "Next" and follow the remaining steps as mentioned above.
+
+For 
 
 <video autoplay loop muted playsinline src="/media/Using local EteSync server in Kontact.mp4"></video>
 
