@@ -54,7 +54,7 @@ EteSync is completely open-source and so, you can host your own EteSync server i
 
 After you have sucessfully set up your own instance, and verified it works by connecting to it from the browser, click on the "Advanced Settings" checkbox in the configuration dialog while setting up the resource. Enter the server URL of your self-hosted instance in the text-box that appears. Click on "Next" and follow the remaining steps as mentioned above.
 
-For 
+For example, here's how to use a self-hosted server listening on `http://localhost:8000`:
 
 <video autoplay loop muted playsinline src="/media/Using local EteSync server in Kontact.mp4"></video>
 
