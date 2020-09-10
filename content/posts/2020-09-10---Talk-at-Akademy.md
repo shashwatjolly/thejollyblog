@@ -9,7 +9,7 @@ tags:
   - "KDE"
   - "Open Source"
   - "EteSync"
-  - "Talk"
+  - "Talks"
 description: "A little about my talk at Akademy and where to find it."
 socialImage: "/media/gsoc-kde-etesync.png"
 ---
