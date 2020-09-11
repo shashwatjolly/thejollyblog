@@ -31,7 +31,7 @@ Please feel free to join in and ask any questions you may have!
 
 Here are the relevant links:
 
-[Virtual room link (N/A right now. I'll update this when it becomes available)](#)
+[Virtual room link](https://meet.kde.org/b/ken-380-tmw)
 
 [Slides](https://docs.google.com/presentation/d/14ONGlWRmIwxXZkeOcrvALKse6TOR2gaFFulSodePA2s/edit?usp=sharing)
 
