@@ -3,7 +3,7 @@
 module.exports = {
   site: {
     siteMetadata: {
-      url: "https://thejollyblog.netlify.app/",
+      url: "https://thejollyblog.tech/",
       title: "thejollyblog",
       subtitle:
         "Random thoughts and some useful stuff (maybe) - Shashwat Jolly's blog",
@@ -38,7 +38,7 @@ module.exports = {
           telegram: "",
           twitter: "jollyshashwat",
           github: "shashwatjolly",
-          rss: "https://thejollyblog.netlify.app/rss.xml",
+          rss: "https://thejollyblog.tech/rss.xml",
           vkontakte: "",
           linkedin: "shashwatjolly",
           instagram: "thejollyguy",

@@ -1,7 +1,7 @@
 "use strict";
 
 module.exports = {
-  url: "https://thejollyblog.netlify.com",
+  url: "https://thejollyblog.tech",
   pathPrefix: "/",
   title: "thejollyblog",
   subtitle:
@@ -39,7 +39,7 @@ module.exports = {
       telegram: "",
       twitter: "jollyshashwat",
       github: "shashwatjolly",
-      rss: "https://thejollyblog.netlify.app/rss.xml",
+      rss: "https://thejollyblog.tech/rss.xml",
       vkontakte: "",
       linkedin: "shashwatjolly",
       instagram: "thejollyguy",
