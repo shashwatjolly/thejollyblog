@@ -1,6 +1,6 @@
 ---
 title: "Getting started with open source - For beginners, by a beginner"
-date: "2020-10-03T22:30:00+05:30"
+date: "2020-10-03T22:00:00+05:30"
 template: "post"
 draft: false
 slug: "getting-started-open-source"
