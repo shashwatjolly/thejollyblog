@@ -22,7 +22,7 @@ Open source, as the name suggests, is code that is out in the open - accessible 
 
 ## Cool, so who writes the code?
 
-You do! Well, I mean people like you and me, who know how to code, or are willing to learn about it. Well, even that is _sometimes_ not true, because even though projects can be open source, doesn't mean you can always contribute to them. But most open source projects welcome new developers with open arms. Most open source softwares are available for free, and it takes a great deal of effort to maintain them. So if you know how to code, and can learn about the technologies and frameworks being used in an open source project, you can contribute to it! There is always a community around an open source project - on Slack, Discord, IRC(?), mailing lists.
+You do! Well, I mean people like you and me, who know how to code, or are willing to learn about it. Well, even that is _sometimes_ not true, because even though projects can be open source, doesn't mean you can always contribute to them. But most open source projects welcome new developers with open arms. Most open source softwares are available for free, and it takes a great deal of effort to maintain them. So if you know how to code, and can learn about the technologies and frameworks being used in an open source project, you can contribute to it! There is always a community around an open source project - on Slack, Discord, [IRC](https://medium.com/@agathver/staying-always-online-in-irc-using-riot-the-right-way-d4c4ff2f43d0), mailing lists.
 
 ## How do I choose a project to contribute to?
 
