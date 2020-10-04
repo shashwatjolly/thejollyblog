@@ -29,7 +29,7 @@ In my case, it was the gateway to starting to contribute to open source organiza
 
 I assume you've went through the blog post I mentioned earlier, and know what open source is. Let's go through the GSoC process first, and then we'll dive into more interesting stuff.
 
-- **Mid February: Oranizations apply to GSoC**
+- **Mid February: Organizations apply to GSoC**
 
   Different open source organizations participate in GSoC every year. Well, a lot of them participate every year, but there are some additions and deletions too. Just like us, the student applicants, organizations too, have to apply to be selected to GSoC. The list of selected mentoring organizations is released mid-to-late February. Every organization has a list of ideas, or a list of projects they want students to take up during GSoC. Most organizations are also open to new project ideas by the students.
 
