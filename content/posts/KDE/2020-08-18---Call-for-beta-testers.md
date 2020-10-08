@@ -32,8 +32,9 @@ Otherwise, follow along to install it on your system:
 2. Install the EteSync library
 
     - Clone [etesync-rs](https://github.com/etesync/etesync-rs) (`git clone https://github.com/etesync/etesync-rs`)
+    - cd into the cloned folder and checkout the `legacy` branch (`git checkout legacy')
     - Install [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)
-    - cd into the cloned folder and run:
+    - Run the following command(s):
         ```shell
         $ make && sudo make install
         ```
