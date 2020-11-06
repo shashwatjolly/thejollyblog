@@ -24,7 +24,7 @@ EteSync recently announced the release of [EteSync 2.0](https://blog.etesync.com
 
 ## How to test the new integration?
 
-If you're running Arch linux, we already have an AUR package for you. Just install [Kontact](https://kde.org/applications/en/office/org.kde.kontact), [libetebase](https://aur.archlinux.org/packages/etebase) and then [follow this link](https://aur.archlinux.org/packages/kdepim-runtime-etesync-git/) to get the package and install it on your system.
+If you're running Arch linux, we already have AUR packages for you. Just install [Kontact](https://kde.org/applications/en/office/org.kde.kontact), [libetebase](https://aur.archlinux.org/packages/etebase) and then [follow this link](https://aur.archlinux.org/packages/kdepim-runtime-etesync-git/) to get the package and install it on your system.
 
 Otherwise, follow along to install it on your system:
 
