@@ -1,5 +1,5 @@
 ---
-title: "EteSync 2.0 with Kontact is now avaialble for beta testing!"
+title: "EteSync 2.0 with Kontact is now available for beta testing!"
 date: "2020-11-06T16:45:00+05:30"
 template: "post"
 draft: false
