@@ -1,6 +1,6 @@
 ---
-title: "EteSync 2.0 with Kontact is now available for beta testing!"
-date: "2020-11-06T16:45:00+05:30"
+title: "EteSync 2.0 with Kontact is now available!"
+date: "2020-11-12T21:55:00+05:30"
 template: "post"
 draft: false
 slug: "etesync-v2-kontact"
@@ -22,11 +22,19 @@ Hey everyone!
 
 EteSync recently announced the release of [EteSync 2.0](https://blog.etesync.com/etesync-2-0-is-now-released/), which has great improvements over EteSync 1.0 and a completely revamped underlying SDK. I have been working on upgrading the EteSync module for Kontact to the new version, and I am glad to announce that it is now ready for testing! If you use EteSync and KDE, and want to help test the new integration, please read on! 
 
-## How to test the new integration?
+## How to install and test the new integration?
 
-If you're running Arch linux, we already have AUR packages for you. Just install [Kontact](https://kde.org/applications/en/office/org.kde.kontact), [libetebase](https://aur.archlinux.org/packages/etebase) and then [follow this link](https://aur.archlinux.org/packages/kdepim-runtime-etesync-git/) to get the package and install it on your system.
+### Pre built packages:
 
-Otherwise, follow along to install it on your system:
+We already have the project packaged for a few distributions:
+
+- Arch (AUR): [AUR](https://aur.archlinux.org/packages/kdepim-runtime-etesync-git/)
+- Ubuntu/Debian: [deb packages](https://invent.kde.org/sjolly/kdepim-runtime-etesync/-/tags/v0.1)
+- Fedora/CentOS (COPR):
+    - `dnf copr enable daftaupe/etesync-rs`
+    - `dnf install kdepim-runtime-etesync`
+
+### Build from source:
 
 1. Install [Kontact](https://kde.org/applications/en/office/org.kde.kontact) (or upgrade it if you have it installed already)
 2. Install the EteSync library
