@@ -32,7 +32,7 @@ module.exports = {
   author: {
     name: "Shashwat Jolly",
     photo: "/photo.jpg",
-    bio: "GSoC 2020 at KDE and EteSync | Upcoming SDE at Microsoft",
+    bio: "SDE at Microsoft | GSoC 2020 at KDE and EteSync | IIT Guwahati",
     contacts: {
       email: "",
       facebook: "shashwatjolly",
