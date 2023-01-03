@@ -8,6 +8,8 @@ socialImage: "/media/image-2.jpg"
 
 Hi!
 
-Shashwat Jolly is currently a final year undergrad student at IIT Guwahati. He lives in NCR, when he's not busy surviving college. He's an incoming Software Developer at Microsoft, Redmond and is very passionate about technology (and procrastinating). Like all people in early twenties, he's still figuring out life. But he's really interested in working on real-world solutions which truly affect society positively.
+I am working as a Software Developer at Microsoft, Redmond. I work on [Windows Admin Center](https://www.microsoft.com/en-us/windows-server/windows-admin-center), a customer-deployed, browser-based app for managing servers, clusters, hyper-converged infrastructure, and Windows PCs.
 
-Do reach out for anything you might want to say. He loves random conversations :)
+I graduated with a major in Mathematics and Computing from Indian Institute of Technology, Guwahati, India in 2020. As a part of my Bachelor’s Thesis, I developed a Blockchain Simulator and proposed a model to validate any simulation framework. I was fortunate to work under the guidance of [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/).
+
+You can reach out on any of my social media linked on the sidebar :)
